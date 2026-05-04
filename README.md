@@ -4,12 +4,12 @@
 
 I specialize in designing scalable, secure, and maintainable systems across Mobile Development and AI-powered automation workflows.
 
-<br><br>
+<br>
 
 ## 🌐 Portfolio
 Check out my work here: https://hammad-islam.vercel.app
 
-<br><br>
+<br>
 
 ## 💼 What I Do
 
@@ -25,7 +25,7 @@ Check out my work here: https://hammad-islam.vercel.app
 - API-driven automation pipelines (n8n, custom backends)
 - Integration of AI with business workflows (CRM, finance, SaaS tools)
 
-<br><br>
+<br>
 
 ## 🧠 Tech Stack
 
@@ -36,7 +36,7 @@ Check out my work here: https://hammad-islam.vercel.app
 **Database:** Firestore, MongoDB, Realm, MySQL
 **Tools:** Firebase, Git, CI/CD, Android Studio, Xcode, Cursor  
 
--
+<br>
 
 ## 🚀 Featured Work
 
@@ -46,7 +46,7 @@ Check out my work here: https://hammad-islam.vercel.app
 - AI-powered automation systems for email & business workflows
 - Custom AI agent workflows integrated with SaaS tools
 
----
+<br>
 
 
 ## 📫 Let's Connect
@@ -55,7 +55,7 @@ Check out my work here: https://hammad-islam.vercel.app
 - Email: hammad.khan4735@gmail.com 
 - Portfolio: https://hammad-islam.vercel.app  
 
----
+<br>
 
 💡 *I focus on building real-world systems that combine mobile engineering with AI-driven automation to solve business problems at scale.*
 
