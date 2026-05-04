@@ -4,12 +4,12 @@
 
 I specialize in designing scalable, secure, and maintainable systems across Mobile Development and AI-powered automation workflows.
 
----
+
 
 ## 🌐 Portfolio
 Check out my work here: https://hammad-islam.vercel.app
 
----
+
 
 ## 💼 What I Do
 
@@ -25,7 +25,7 @@ Check out my work here: https://hammad-islam.vercel.app
 - API-driven automation pipelines (n8n, custom backends)
 - Integration of AI with business workflows (CRM, finance, SaaS tools)
 
----
+
 
 ## 🧠 Tech Stack
 
@@ -36,7 +36,7 @@ Check out my work here: https://hammad-islam.vercel.app
 **Database:** Firestore, MongoDB, Realm, MySQL
 **Tools:** Firebase, Git, CI/CD, Android Studio, Xcode, Cursor  
 
----
+-
 
 ## 🚀 Featured Work
 
